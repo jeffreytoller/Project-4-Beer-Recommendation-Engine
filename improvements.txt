@@ -1,0 +1,14 @@
+evaluation metrics
+
+map at k
+
+mean average precision at k
+
+over test set
+
+
+fraction of concordant pairs
+fcp
+
+
+include beeradvocate
